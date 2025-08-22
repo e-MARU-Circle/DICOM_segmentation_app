@@ -1,0 +1,12 @@
+SimpleITK
+scikit-image
+pydicom
+numpy
+torch
+torchvision
+torchaudio
+nnunetv2
+pyside6
+numpy-stl
+trimesh
+vtk

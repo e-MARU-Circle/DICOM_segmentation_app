@@ -1,0 +1,10 @@
+test_dicom_data/
+
+# Large files and generated data
+input_nifti/
+output_segmentation/
+Dataset111_453CT/
+Dataset111_453CT_v100.zip
+nnUNet_results/
+__pycache__/
+.DS_Store
