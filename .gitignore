@@ -9,7 +9,6 @@ DICOM/__pycache__/
 DICOM/.DS_Store
  
 # Ignore other projects/files at the root level
-graphing-notions/
 .DS_Store
 Daily/
 package-lock.json
