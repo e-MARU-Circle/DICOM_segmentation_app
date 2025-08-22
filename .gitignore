@@ -1,0 +1,15 @@
+Ignore files in the DICOM project
+DICOM/test_dicom_data/
+DICOM/input_nifti/
+DICOM/output_segmentation/
+DICOM/Dataset111_453CT/
+DICOM/Dataset111_453CT_v100.zip
+DICOM/nnUNet_results/
+DICOM/__pycache__/
+DICOM/.DS_Store
+ 
+# Ignore other projects/files at the root level
+graphing-notions/
+.DS_Store
+Daily/
+package-lock.json
