@@ -23,6 +23,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # nnU-Netのパスを設定
 # nnUNet_results はコンテナ内の /app/nnUNet_results に設定
 ENV nnUNet_results="/app/nnUNet_results"
+ENV nnUNet_raw_data_base="/app/nnUNet_raw_data"
+ENV nnUNet_preprocessed="/app/nnUNet_preprocessed"
 
 # nnU-Netのモデルをインストール
 # nnUNetv2_install_pretrained_model_from_zip はnnunetv2パッケージに含まれる
